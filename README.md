@@ -15,5 +15,5 @@ These projects were completed and submitted in partial fulfillment of the course
 - For both projects, upload the required files to your Google Drive and use their file paths to load them in the notebooks.
 
 ## Collaborators
-- [Ioannis Lamprinidis](https://github.com/johnLampri)
+- [johnLampri](https://github.com/johnLampri)
 - Chris Kougias
