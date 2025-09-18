@@ -16,3 +16,4 @@ These projects were completed and submitted in partial fulfillment of the course
 
 ## Collaborators
 - [Ioannis Lamprinidis](https://github.com/johnLampri)
+- Chris Kougias
