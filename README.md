@@ -16,4 +16,4 @@ These projects were completed and submitted in partial fulfillment of the course
 
 ## Collaborators
 - [johnLampri](https://github.com/johnLampri)
-- Chris Kougias
+- [Chris Kougias](https://github.com/Programming-Gaps)
